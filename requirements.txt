@@ -4,3 +4,5 @@ python-dotenv
 langchain-google-genai
 streamlit
 langchain-ollama
+langchain-community
+langgraph
